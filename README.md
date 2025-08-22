@@ -42,9 +42,9 @@ pip install -r requirements.txt
 
 Example requirements.txt:
 
-pandas
-numpy
-scikit-learn
+- pandas
+- numpy
+- scikit-learn
 
 ## 📑 Dataset Format
 
@@ -106,7 +106,7 @@ The project expects a file named IMDB Dataset.csv with:
 
 - Detailed classification report (per class)
 
-##🐞 Common Issues & Fixes
+## 🐞 Common Issues & Fixes
 
 - FileNotFoundError → Make sure IMDB Dataset.csv is in the same directory
 
