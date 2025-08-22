@@ -107,4 +107,4 @@ The project expects a file named IMDB Dataset.csv with:
 
 ## 📜 License
 
-Pick your favorite (MIT recommended).
+This project is licensed under the MIT License.
