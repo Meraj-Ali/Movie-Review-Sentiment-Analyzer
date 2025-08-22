@@ -35,17 +35,6 @@ At its core, it uses TF-IDF vectorization to turn words into numbers and a Logis
 
 - scikit-learn
 
-## 👉 Install everything at once:
-
-pip install -r requirements.txt
-
-
-Example requirements.txt:
-
-- pandas
-- numpy
-- scikit-learn
-
 ## 📑 Dataset Format
 
 The project expects a file named IMDB Dataset.csv with:
